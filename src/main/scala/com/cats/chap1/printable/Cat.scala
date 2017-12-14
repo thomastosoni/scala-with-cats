@@ -1,4 +1,4 @@
-package com.cats.printable
+package com.cats.chap1.printable
 
 object Cat {
   import PrintableInstances._

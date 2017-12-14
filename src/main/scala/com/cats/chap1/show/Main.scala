@@ -1,4 +1,4 @@
-package com.cats.show
+package com.cats.chap1.show
 
 import Cat.catShow
 import cats.syntax.show._

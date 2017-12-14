@@ -1,4 +1,4 @@
-package com.cats.printable
+package com.cats.chap1.printable
 
 import PrintableSyntax._
 

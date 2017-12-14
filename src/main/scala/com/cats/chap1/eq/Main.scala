@@ -1,4 +1,4 @@
-package com.cats.eq
+package com.cats.chap1.eq
 
 import cats.syntax.eq._
 import cats.instances.option._

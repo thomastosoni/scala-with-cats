@@ -1,4 +1,4 @@
-package com.cats.printable
+package com.cats.chap1.printable
 
 object PrintableSyntax {
   implicit class PrintableOps[A](value: A) {

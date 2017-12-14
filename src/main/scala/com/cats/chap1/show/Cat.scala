@@ -1,4 +1,4 @@
-package com.cats.show
+package com.cats.chap1.show
 
 import cats.Show
 import cats.instances.int._
